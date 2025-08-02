@@ -1,3 +1,7 @@
+
+import './styles/styles.css'; // Doğru yol
+// ...existing code... // Template’in ana CSS dosyasının yolu
+
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
